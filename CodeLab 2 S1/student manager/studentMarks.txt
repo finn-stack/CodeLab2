@@ -1,0 +1,34 @@
+1001,Alex Smith,1,65,72
+1002,Sam Jones,1,54,61
+1003,Emma Brown,1,77,80
+1004,Tom White,1,42,45
+1005,Sophie Green,1,81,76
+1006,Leo Collins,1,92,94
+1007,Theo Reed,1,82,85
+1008,Arthur Phillips,1,53,58
+1009,James Wilson,2,58,63
+1010,Lily Taylor,2,69,71
+1011,Oliver Brown,2,47,51
+1012,Mia Adams,2,59,55
+1013,Evie Campbell,2,64,61
+1014,Rosie Stewart,2,66,69
+1015,Ruby Cook,2,41,48
+1016,Ava Wright,2,67,70
+1017,Harry White,3,55,57
+1018,Amelia Harris,3,88,92
+1019,Jack Martin,3,73,68
+1020,Charlie Hall,3,62,65
+1021,George Scott,3,76,81
+1022,Freddie Baker,3,84,86
+1023,Oscar Parker,3,78,79
+1024,Henry Morris,3,57,60
+1025,Isla Young,4,90,87
+1026,Noah King,4,49,52
+1027,Ella Turner,4,71,74
+1028,Poppy Evans,4,45,40
+1029,Daisy Rogers,4,74,77
+1030,Ethan Ward,4,68,72
+1031,Chloe Bell,4,87,89
+1032,Grace Walker,4,39,44
+2001,Emily,2,90,85
+5,6,4,3,3
